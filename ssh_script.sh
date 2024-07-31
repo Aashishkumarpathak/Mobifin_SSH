@@ -108,5 +108,5 @@ case $ACTION in
 esac
 
 echo "Script completed."
-echo "Logs Generated at :- ${OUTPUT_FILE}"
+echo "Logs Generated at :- "
 sleep 10
